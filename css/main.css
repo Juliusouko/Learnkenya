@@ -55,6 +55,15 @@
 }
 /* End of navbar styles */
 
+/* Start of main-content styles */
+.main-content {
+  margin-left: 25%;
+  width: 55%;
+  height: 100vh;
+  background: no-repeat;
+}
+/* End of main-content styles */
+
 /* Start of footer styles */
 
 .footer {
